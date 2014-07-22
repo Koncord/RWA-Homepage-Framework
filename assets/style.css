@@ -1,0 +1,16 @@
+/* Based on http://www.foxtacles.com */
+
+body {
+font-family: monospace;
+}
+
+p {
+	margin: 0.5em;
+	margin-left: 0;
+}
+
+ul.nav li {
+	list-style: none;
+	display: inline;
+	margin: 1em;
+}
